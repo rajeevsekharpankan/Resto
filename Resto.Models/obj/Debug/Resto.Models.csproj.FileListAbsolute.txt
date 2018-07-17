@@ -1,0 +1,16 @@
+D:\Personal Projects\Naveen\NewResto\Resto.Models\bin\Debug\Resto.Models.dll
+D:\Personal Projects\Naveen\NewResto\Resto.Models\bin\Debug\Resto.Models.pdb
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.zigzagbox.resources
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.Properties.Resources.resources
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.csproj.GenerateResource.Cache
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.dll
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.pdb
+D:\Personal Projects\Naveen\NewResto\Resto.Models\obj\Debug\Resto.Models.csprojResolveAssemblyReference.cache
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\bin\Debug\Resto.Models.dll
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\bin\Debug\Resto.Models.pdb
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.zigzagbox.resources
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.Properties.Resources.resources
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.csproj.GenerateResource.Cache
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.csproj.CoreCompileInputs.cache
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.dll
+D:\Personal Projects\naveen\Resto_07_16_2018\NewResto\Resto.Models\obj\Debug\Resto.Models.pdb
